@@ -1,0 +1,13 @@
+
+1) swap two variable value without third variable
+
+2)function arguments
+
+3) Decorators 
+
+4) Abstraction
+
+5) Encapsulation
+
+6) static method
+
